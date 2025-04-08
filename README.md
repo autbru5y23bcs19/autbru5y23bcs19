@@ -60,11 +60,7 @@
     </div>
 </body>
 </html>
-now to change in coding la
-1.<title>Nivetha K - Digital Portfolio</title>
+
+1.<title>Manikandan p - Digital Portfolio</title>
 2.<img src="profile.jpg" alt="Profile Picture" class="profile-img">
 3.  <a href="Resume.pdf" download class="btn">Download Resume</a>
-<!---
-autbru5y23bcs19/autbru5y23bcs19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
