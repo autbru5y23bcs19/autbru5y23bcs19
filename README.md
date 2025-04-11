@@ -42,8 +42,8 @@
         </div>
         <div id="education" class="section">
             <h2>Education</h2>
-            <p><strong>HSC:</strong> Sakthi Higher Secondary School (91%)</p>
-            <p><strong>SSLC:</strong> Sakthi Higher Secondary School (96%)</p>
+            <p><strong>HSC:</strong> bishop Higher Secondary School (91%)</p>
+            <p><strong>SSLC:</strong> bishop  Higher Secondary School (96%)</p>
         </div>
         <div id="skills" class="section">
             <h2>Technical Skills</h2>
