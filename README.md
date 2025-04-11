@@ -22,7 +22,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="my photo.jpg" alt="Profile Picture" class="profile-img">
+        <img src=C:\Users\mk\Desktop\C++\resume"my photo.jpg" alt="Profile Picture" class="profile-img">
         <div class="header-text">
             <h1>Manikandan p</h1>
             <p>An Aspiring IT Professional</p>
