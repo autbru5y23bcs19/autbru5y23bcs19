@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    ```<title>Nivetha K - Digital Portfolio</title>
+    ```<title>Manikandan p- Digital Portfolio</title>
 ```    <style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #E3F2FD; }
         .header { background: #B71C1C; color: white; text-align: left; padding: 30px; display: flex; align-items: center; }
