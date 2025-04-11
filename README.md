@@ -22,7 +22,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="profile.jpg" alt="Profile Picture" class="profile-img">
+        <img src="my photo.jpg" alt="Profile Picture" class="profile-img">
         <div class="header-text">
             <h1>Manikandan p</h1>
             <p>An Aspiring IT Professional</p>
@@ -55,12 +55,11 @@
         </div>
         <div id="resume" class="section">
             <h2>Download Resume</h2>
-            <a href="Resume.pdf" download class="btn">Download Resume</a>
+            <a href="Brown & Black Modern Minimalist Social Media Manager Resume_20250408_123832_0000.png"download class="btn">Download Resume</a>
         </div>
     </div>
 </body>
 </html>
-
 1.<title>Manikandan p - Digital Portfolio</title>
-2.<img src="profile.jpg" alt="Profile Picture" class="profile-img">
-3.  <a href="Resume.pdf" download class="btn">Download Resume</a>
+2.<img src="my photo.jpg" alt="Profile Picture" class="profile-img">
+3.  <a href="Brown & Black Modern Minimalist Social Media Manager Resume_20250408_123832_0000.png"download class="btn">Download Resume</a>
