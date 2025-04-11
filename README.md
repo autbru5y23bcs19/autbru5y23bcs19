@@ -61,5 +61,5 @@
 </body>
 </html>
 1.<title>Manikandan p - Digital Portfolio</title>
-2.<img src="my photo.jpg" alt="Profile Picture" class="profile-img">
+2.<img src=C:\Users\mk\Desktop\C++\resume"my photo.jpg" alt="Profile Picture" class="profile-img">
 3.  <a href="Brown & Black Modern Minimalist Social Media Manager Resume_20250408_123832_0000.png"download class="btn">Download Resume</a>
