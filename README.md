@@ -61,3 +61,6 @@
     </div>
 </body>
 </html>
+<title>Manikandan p- Digital potfolio</title>
+<img src="profile.jpg" alt="profile picture" class="profile-img>
+<a href="Resume.pdf" download class="btn">Download Resume</a>
