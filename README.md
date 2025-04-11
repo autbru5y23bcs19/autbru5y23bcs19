@@ -1,11 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    ```<title>Manikandan p- Digital Portfolio</title>
-```    <style>
+    <title>Manikandan p- Digital Portfolio</title>
+    <style>
         body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #E3F2FD; }
         .header { background: #B71C1C; color: white; text-align: left; padding: 30px; display: flex; align-items: center; }
         .profile-img { width: 100px; height: 100px; border-radius: 10px; margin-right: 20px; }
@@ -22,10 +21,10 @@
 </head>
 <body>
     <div class="header">
-        <img src="my photo.jpg" alt="Profile Picture" class="profile-img">
+        <img src="my photo.jpg" alt="profile picture" class = "profile-img">
         <div class="header-text">
             <h1>Manikandan p</h1>
-            <p>An Aspiring IT Professional</p>
+            <p>An As inspiring IT Proffessional</p>
         </div>
     </div>
     <div class="nav">
@@ -42,8 +41,9 @@
         </div>
         <div id="education" class="section">
             <h2>Education</h2>
-            <p><strong>HSC:</strong> bishop ubagarsamy Higher Secondary School (91%)</p>
-            <p><strong>SSLC:</strong> bishop ubagarsamy  Higher Secondary School (96%)</p>
+            <p><strong>HSC:</strong> bishop ubagarasamy
+			Higher Secondary School (91%)</p>
+            <p><strong>SSLC:</strong> bishop ubagarasamy Higher Secondary School (96%)</p>
         </div>
         <div id="skills" class="section">
             <h2>Technical Skills</h2>
@@ -57,9 +57,7 @@
             <h2>Download Resume</h2>
             <a href="Brown & Black Modern Minimalist Social Media Manager Resume_20250408_123832_0000.png"download class="btn">Download Resume</a>
         </div>
+
     </div>
 </body>
 </html>
-1.<title>Manikandan p - Digital Portfolio</title>
-2.<img src="my photo.jpg" alt="Profile Picture" class="profile-img">
-3.  <a href="Brown & Black Modern Minimalist Social Media Manager Resume_20250408_123832_0000.png"download class="btn">Download Resume</a>
